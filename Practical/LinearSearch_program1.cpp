@@ -1,3 +1,13 @@
+/*Given an array of non negative integers , Design a linear algorithm and implement it using 
+ * a Program to find whether a given element id present in array or not and also find out total
+ * number of comparisons . 
+ * Example-> 
+ *  search element =2
+ *  size : 7 
+ *  array elements: 5,6,8,2,1,9, 25
+ *  the key is present at index 3
+ *  Number of comparisons : 4
+ */
 #include<iostream>
 #include<vector>
 using namespace std;

@@ -1,3 +1,13 @@
+/*Given an already Sorted array of +ve integers, Design an algorithm and implement it using 
+ * a Program to find whether a given element is present in array or not and also find out total
+ * number of comparisons . 
+ * Example-> 
+ *  search element =2
+ *  size : 7 
+ *  array elements: 5,6,8,2,1,9, 25
+ *  the key is present at index 3
+ *  Number of comparisons : 1
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
